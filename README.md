@@ -1,4 +1,4 @@
 # campusX-mlops
 Learning thru campusX
 
-This is Readme Update
+Updating the Readme file
